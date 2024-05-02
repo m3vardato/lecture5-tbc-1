@@ -1,0 +1,322 @@
+section {
+	margin: 50px;
+}
+header {
+	margin: 50px;
+}
+nav {
+	display: inline-block;
+	  vertical-align: top;
+}
+.htmllogo {
+	  vertical-align: top;
+
+}
+li {
+	display: inline-block;	
+	margin-left: 50px;
+}
+
+a {
+	color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.active {
+	color: #4E6FAE;
+}
+
+.s-1 {
+	margin: 50px;
+}
+
+.my26 {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+h3 {color: #8D81FF;
+	font-family: "BPG Nino Mkhedruli", sans-serif;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	width: 119px;
+	height: 34px;
+}
+
+@font-face {
+	font-family: tatishvili;
+	src: url(tatishvili.ttf);
+}
+
+.ran {
+	font-family: tatishvili;
+}
+
+h4 {
+	color: #4E6FAE;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.para {
+	width: 778px;
+	height: 353px;
+	display: inline-block;
+;
+	vertical-align: top;
+	margin-left: 66px;
+}
+.codepic {
+	vertical-align: top;
+}
+
+@font-face {
+	font-family: kirovi;
+	src: url(kirovi.ttf);
+}
+
+.ran1 {
+	font-family: kirovi;
+}
+
+p {
+	margin-bottom: 30px;
+	color: #4E6FAE;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.my27 {width: 50px;
+		height: 50px;
+		background-color: #5012D5;
+		color: #84FF81;
+		font-family: Helvetica;
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		padding: 10px;
+		margin-top: 154px;
+		
+
+}
+
+
+.my28 {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.s {
+	margin-bottom: 32px;
+}
+
+.abg {
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	width: 1021px;
+	height: 148px;
+	margin-top: 32px;
+}
+
+footer {
+	margin-left: 52px;
+	margin-top: 143px;
+
+}
+
+.afa {
+	margin-bottom: 336px;
+}
+
+.mwvadi {
+	margin-right: 41px;
+	margin-bottom: 336px;
+}
+
+.xinkali {
+	margin-left: 41px;
+	margin-bottom: 336px;
+}
+
+.html {
+	width: 1052px;
+	height: 462px;
+	margin-left: 195px;
+	margin-right: 195px;
+	margin-top: 112px;
+}
+
+.sx{
+	margin-left: 194px;
+	vertical-align: middle;
+	display: inline-block;
+	width: 150px;
+	height: 34px;
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.xazi{
+	vertical-align: middle;
+	display: inline-block;
+	background: #5012D5;
+	width: 2px;
+	height: 24px;
+	margin-right: 18px;
+}
+
+.ix{
+	vertical-align: middle;
+	display: inline-block;
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	width: 484px;
+	height: 34px;
+}
+
+.yutii{
+	margin-left: 250px;
+	padding: 20px;
+	display: inline-block;
+	vertical-align: middle;
+	width: 450px;
+	height: 210px;
+	background: #E7E7E7;
+}
+
+.lol {
+	margin-left: 100px;
+	padding: 20px;
+	display: inline-block;
+	vertical-align: middle;
+	width: 450px;
+	height: 210px;
+	background: #E7E7E7;
+}
+
+
+.main{
+	color: #3F4145;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;;
+}
+
+.mini {
+	display: inline-block;
+	width: 335px;
+	height: 95px;
+	color: #7E8898;
+	font-family: Roboto;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	vertical-align: top;
+	margin-left: 80px;
+	margin-top: -70px;
+}
+
+.fexi {
+	margin-left: 250px;
+
+}
+
+.arvici {
+	display: inline-block;
+	padding-top: 105px;
+	padding-left: 162px;
+	margin: 0px;
+	width: 1350px;
+	height: 800px;
+	background: #E7E7E7;
+	color: #4E6FAE;
+	font-family: "Helvetica Neue";
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700px;
+	line-height: normal;
+.mez {
+	display: inline-block;
+	color: #7E8898;
+	display: inline-block;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.mex     {
+	display: inline-block;
+	color: #3F4145;
+	display: inline-block;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.lmao	{
+	display: inline-block;
+	vertical-align: middle;
+
+
+.borshi {
+	display: inline-block;
+	width: 120px;
+}
+.qababi {
+	font-size: 36px;
+}
+
+.zebra {
+	display: inline-block;
+}
+
+.grr {
+	display: inline-block;
+}
